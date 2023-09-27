@@ -1,0 +1,8 @@
+{
+    "token":"your_token",
+    "prefix": "$",
+    "guildId":"your server id",
+    "clientId":"your discord bot client id get in developer portal",
+    "customerRoleId":"role you want to give your clients",
+    "OwnerRole":"owner role id"
+}

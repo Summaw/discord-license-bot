@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-license-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Summaw",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "license-key-generator": "^1.1.2"
+  }
+}
